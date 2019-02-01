@@ -1,0 +1,36 @@
+﻿  Blank.cpp
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(180): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(184): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(190): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(201): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(207): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(329): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(333): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(337): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(347): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(351): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(355): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(365): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(369): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(373): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(382): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(386): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\blank.cpp(390): warning C4305: '+=': truncation from 'double' to 'float'
+  LittleCube.cpp
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(455): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(467): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(513): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(518): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(532): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(578): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(583): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(595): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(780): warning C4101: 'temp13': unreferenced local variable
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(780): warning C4101: 'temp10': unreferenced local variable
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(1016): warning C4101: 'temp13': unreferenced local variable
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(1015): warning C4101: 'temp2': unreferenced local variable
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(1016): warning C4101: 'temp15': unreferenced local variable
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(1016): warning C4101: 'temp12': unreferenced local variable
+c:\users\tiziano\desktop\msc_games_software_development\graphics and animation\reassignment_tiziano_casu\rubik'scube\littlecube.cpp(428): warning C4715: 'LittleCube::fillTheCubeVertexBuffer': not all control paths return a value
+Blank.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Blank.vcxproj -> C:\Users\Tiziano\Desktop\MSC_Games_Software_Development\GRAPHICS AND ANIMATION\Reassignment_Tiziano_Casu\Rubik'sCube\.\Debug\Blank.exe
